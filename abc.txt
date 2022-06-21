@@ -9,3 +9,5 @@ Step 5 - Now I have moved the folder from one location to other. Now I will comm
 Step 6 - Don't know what happened changes not updating in Github.
 First I added "git add abc.txt"
 Then "git status"  but it showed everything is up to date. Even used "git push -u origin" But nothing changed it said everything up to date. Now this statement added from PC. Now will check status
+
+Step 7 - Now from github website. Earlier there should have been no problem because after adding "git add abc.txt" I was not commiting and hence it showed everything up to date but this time it update when I used "git add abc.txt" --> "git status" --> "git commit -m "my message i.e. new commit" --> "git push -u origin". After these my file in github got updated. Now I will pull it in pc by "git pull -u origin" after saving changes.
