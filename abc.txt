@@ -12,4 +12,4 @@ Then "git status"  but it showed everything is up to date. Even used "git push -
 
 Step 7 - Now from github website. Earlier there should have been no problem because after adding "git add abc.txt" I was not commiting and hence it showed everything up to date but this time it update when I used "git add abc.txt" --> "git status" --> "git commit -m "my message i.e. new commit" --> "git push -u origin". After these my file in github got updated. Now I will pull it in pc by "git pull origin" after saving changes. Note here I did not use 'git pull -u origin'
 
-Step 8 - Now everytime I have to add git file before committing don't know why.Now trying it with "git commit -a -m "commit_msg"
+Step 8 - Now everytime I have to add git file before committing don't know why. Now trying it with "git commit -a -m "commit_msg"" insted of adding and then committing everytime. Yesss it works
