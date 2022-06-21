@@ -1,2 +1,4 @@
 This is a trial. I don't know but I have already cloned a file. Tutorial link-- https://www.youtube.com/watch?v=J_Clau1bYco&ab_channel=ProgrammingKnowledge2
 Wow pushed it. Was getting some error but used this website https://komodor.com/learn/how-to-fix-failed-to-push-some-refs-to-git-errors/#:~:text=A%20commit%20gets%20rejected%20and,compatible%20with%20the%20remote%20origin.&text=Based%20on%20the%20above%2C%20your,missing%20commits%20C%20and%20D.
+
+Now will again push. Last time while pushing used "git pull origin"
